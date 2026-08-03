@@ -1,0 +1,16 @@
+{
+  "name": "proj1",
+  "version": "1.0.0",
+  "description": "building my first server and learning routing",
+  "license": "ISC",
+  "author": "Trushank",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "yargs": "^18.1.0"
+  }
+}
