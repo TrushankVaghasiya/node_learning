@@ -1,0 +1,15 @@
+{
+  "name": "expense_tracker",
+  "version": "1.0.0",
+  "description": "this project aims to build logic building and strengthen the yargs fundamentals",
+  "license": "ISC",
+  "author": "Trushank",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "yargs": "^18.1.0"
+  }
+}
